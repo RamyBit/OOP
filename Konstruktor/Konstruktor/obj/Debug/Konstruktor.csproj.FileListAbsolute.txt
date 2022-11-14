@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe.config
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\bin\Debug\Konstruktor.pdb
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.exe
+C:\Users\Ramy\source\repos\Konstruktor\Konstruktor\obj\Debug\Konstruktor.pdb

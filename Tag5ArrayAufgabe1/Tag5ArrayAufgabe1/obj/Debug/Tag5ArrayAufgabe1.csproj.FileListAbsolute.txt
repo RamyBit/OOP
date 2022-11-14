@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\bin\Debug\Tag5ArrayAufgabe1.exe.config
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\bin\Debug\Tag5ArrayAufgabe1.exe
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\bin\Debug\Tag5ArrayAufgabe1.pdb
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\obj\Debug\Tag5ArrayAufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\obj\Debug\Tag5ArrayAufgabe1.exe
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\obj\Debug\Tag5ArrayAufgabe1.pdb
+C:\Users\Ramy\source\repos\Tag5ArrayAufgabe1\Tag5ArrayAufgabe1\obj\Debug\Tag5ArrayAufgabe1.csproj.AssemblyReference.cache

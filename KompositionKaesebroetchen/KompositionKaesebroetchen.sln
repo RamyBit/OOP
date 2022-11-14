@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KompositionKaesebroetchen", "KompositionKaesebroetchen\KompositionKaesebroetchen.csproj", "{2175559C-BADB-4DA4-B514-AC0DB836A023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2175559C-BADB-4DA4-B514-AC0DB836A023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2175559C-BADB-4DA4-B514-AC0DB836A023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2175559C-BADB-4DA4-B514-AC0DB836A023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2175559C-BADB-4DA4-B514-AC0DB836A023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13BFB339-EDCC-4CBA-AF5E-52368FA5EB5A}
+	EndGlobalSection
+EndGlobal

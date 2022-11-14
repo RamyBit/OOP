@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\bin\Debug\Schleifen.exe.config
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\bin\Debug\Schleifen.exe
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\bin\Debug\Schleifen.pdb
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.exe
+C:\Users\Ramy\source\repos\Schleifen\Schleifen\obj\Debug\Schleifen.pdb

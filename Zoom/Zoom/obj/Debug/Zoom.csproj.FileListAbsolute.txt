@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Zoom\Zoom\bin\Debug\Zoom.exe.config
+C:\Users\Ramy\source\repos\Zoom\Zoom\bin\Debug\Zoom.exe
+C:\Users\Ramy\source\repos\Zoom\Zoom\bin\Debug\Zoom.pdb
+C:\Users\Ramy\source\repos\Zoom\Zoom\obj\Debug\Zoom.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Zoom\Zoom\obj\Debug\Zoom.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Zoom\Zoom\obj\Debug\Zoom.exe
+C:\Users\Ramy\source\repos\Zoom\Zoom\obj\Debug\Zoom.pdb

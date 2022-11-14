@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\bin\Debug\AggregationKomposition.exe.config
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\bin\Debug\AggregationKomposition.exe
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\bin\Debug\AggregationKomposition.pdb
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\obj\Debug\AggregationKomposition.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\obj\Debug\AggregationKomposition.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\obj\Debug\AggregationKomposition.exe
+C:\Users\Ramy\source\repos\AggregationKomposition\AggregationKomposition\obj\Debug\AggregationKomposition.pdb

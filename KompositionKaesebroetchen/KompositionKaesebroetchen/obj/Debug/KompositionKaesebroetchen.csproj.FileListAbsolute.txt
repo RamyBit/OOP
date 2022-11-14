@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\bin\Debug\KompositionKaesebroetchen.exe.config
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\bin\Debug\KompositionKaesebroetchen.exe
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\bin\Debug\KompositionKaesebroetchen.pdb
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\obj\Debug\KompositionKaesebroetchen.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\obj\Debug\KompositionKaesebroetchen.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\obj\Debug\KompositionKaesebroetchen.exe
+C:\Users\Ramy\source\repos\KompositionKaesebroetchen\KompositionKaesebroetchen\obj\Debug\KompositionKaesebroetchen.pdb

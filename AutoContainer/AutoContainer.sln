@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoContainer", "AutoContainer\AutoContainer.csproj", "{78762C5F-A381-4B28-BA67-0C092ECC047F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78762C5F-A381-4B28-BA67-0C092ECC047F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78762C5F-A381-4B28-BA67-0C092ECC047F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78762C5F-A381-4B28-BA67-0C092ECC047F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78762C5F-A381-4B28-BA67-0C092ECC047F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4EC63ED-A557-4AB9-B6F7-9DBBBDABCAA7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\obj\Debug\SchleifenAufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\bin\Debug\SchleifenAufgabe1.exe.config
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\bin\Debug\SchleifenAufgabe1.exe
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\bin\Debug\SchleifenAufgabe1.pdb
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\obj\Debug\SchleifenAufgabe1.exe
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\obj\Debug\SchleifenAufgabe1.pdb
+C:\Users\Ramy\source\repos\SchleifenAufgabe1\SchleifenAufgabe1\obj\Debug\SchleifenAufgabe1.csproj.AssemblyReference.cache

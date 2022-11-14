@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\bin\Debug\Autobeispiel2.exe.config
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\bin\Debug\Autobeispiel2.exe
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\bin\Debug\Autobeispiel2.pdb
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\obj\Debug\Autobeispiel2.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\obj\Debug\Autobeispiel2.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\obj\Debug\Autobeispiel2.exe
+C:\Users\Ramy\source\repos\Autobeispiel2\Autobeispiel2\obj\Debug\Autobeispiel2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\bin\Debug\Unterprogramme.exe.config
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\bin\Debug\Unterprogramme.exe
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\bin\Debug\Unterprogramme.pdb
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\obj\Debug\Unterprogramme.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\obj\Debug\Unterprogramme.exe
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\obj\Debug\Unterprogramme.pdb
+C:\Users\Ramy\source\repos\Unterprogramme\Unterprogramme\obj\Debug\Unterprogramme.csproj.AssemblyReference.cache

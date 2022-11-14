@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\bin\Debug\ListenErstellen.exe.config
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\bin\Debug\ListenErstellen.exe
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\bin\Debug\ListenErstellen.pdb
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\obj\Debug\ListenErstellen.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\obj\Debug\ListenErstellen.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\obj\Debug\ListenErstellen.exe
+C:\Users\Ramy\source\repos\ListenErstellen\ListenErstellen\obj\Debug\ListenErstellen.pdb

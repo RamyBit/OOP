@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Users\Ramy\source\repos\Auto\Auto\bin\Debug\Auto.exe
+C:\Users\Ramy\source\repos\Auto\Auto\bin\Debug\Auto.pdb
+C:\Users\Ramy\source\repos\Auto\Auto\obj\Debug\Autobeispiel.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Auto\Auto\obj\Debug\Autobeispiel.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Auto\Auto\obj\Debug\Auto.exe
+C:\Users\Ramy\source\repos\Auto\Auto\obj\Debug\Auto.pdb

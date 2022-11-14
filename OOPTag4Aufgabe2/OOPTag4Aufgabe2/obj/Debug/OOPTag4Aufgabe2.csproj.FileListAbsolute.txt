@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\bin\Debug\OOPTag4Aufgabe2.exe.config
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\bin\Debug\OOPTag4Aufgabe2.exe
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\bin\Debug\OOPTag4Aufgabe2.pdb
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\obj\Debug\OOPTag4Aufgabe2.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\obj\Debug\OOPTag4Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\obj\Debug\OOPTag4Aufgabe2.exe
+C:\Users\Ramy\source\repos\OOPTag4Aufgabe2\OOPTag4Aufgabe2\obj\Debug\OOPTag4Aufgabe2.pdb

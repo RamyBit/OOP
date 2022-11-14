@@ -1,0 +1,7 @@
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\bin\Debug\Tag5ArraysAufgabe3.exe.config
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\bin\Debug\Tag5ArraysAufgabe3.exe
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\bin\Debug\Tag5ArraysAufgabe3.pdb
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\obj\Debug\Tag5ArraysAufgabe3.csproj.AssemblyReference.cache
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\obj\Debug\Tag5ArraysAufgabe3.csproj.CoreCompileInputs.cache
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\obj\Debug\Tag5ArraysAufgabe3.exe
+D:\BITLC\DO1\OOP\Source\Tag5ArraysAufgabe3\Tag5ArraysAufgabe3\obj\Debug\Tag5ArraysAufgabe3.pdb

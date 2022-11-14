@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\bin\Debug\OOPAufgabe3.exe.config
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\bin\Debug\OOPAufgabe3.exe
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\bin\Debug\OOPAufgabe3.pdb
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\obj\Debug\OOPAufgabe3.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\obj\Debug\OOPAufgabe3.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\obj\Debug\OOPAufgabe3.exe
+C:\Users\Ramy\source\repos\OOPAufgabe3\OOPAufgabe3\obj\Debug\OOPAufgabe3.pdb

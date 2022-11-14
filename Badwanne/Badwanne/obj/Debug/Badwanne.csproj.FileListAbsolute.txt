@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\bin\Debug\Badwanne.exe.config
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\bin\Debug\Badwanne.exe
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\bin\Debug\Badwanne.pdb
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\obj\Debug\Badwanne.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\obj\Debug\Badwanne.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\obj\Debug\Badwanne.exe
+C:\Users\Ramy\source\repos\Badwanne\Badwanne\obj\Debug\Badwanne.pdb

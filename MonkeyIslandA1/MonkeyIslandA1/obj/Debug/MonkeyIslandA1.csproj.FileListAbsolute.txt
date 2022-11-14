@@ -1,0 +1,14 @@
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\bin\Debug\MonkeyIslandA1.exe.config
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\bin\Debug\MonkeyIslandA1.exe
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\bin\Debug\MonkeyIslandA1.pdb
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.csproj.AssemblyReference.cache
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.csproj.CoreCompileInputs.cache
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.exe
+D:\BITLC\DO1\OOP\Source\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.pdb
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.exe
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\obj\Debug\MonkeyIslandA1.pdb
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\bin\Debug\MonkeyIslandA1.exe.config
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\bin\Debug\MonkeyIslandA1.exe
+C:\Users\Ramy\source\repos\MonkeyIslandA1\MonkeyIslandA1\bin\Debug\MonkeyIslandA1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\bin\Debug\Schiffchen_versenken.exe.config
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\bin\Debug\Schiffchen_versenken.exe
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\bin\Debug\Schiffchen_versenken.pdb
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\obj\Debug\Schiffchen_versenken.csproj.AssemblyReference.cache
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\obj\Debug\Schiffchen_versenken.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\obj\Debug\Schiffchen_versenken.exe
+C:\Users\Ramy\source\repos\Schiffchen_versenken\Schiffchen_versenken\obj\Debug\Schiffchen_versenken.pdb
