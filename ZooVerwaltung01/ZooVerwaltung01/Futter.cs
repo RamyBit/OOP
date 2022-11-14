@@ -8,7 +8,7 @@ namespace ZooVerwaltung01
 {
     class Futter
     {
-        public string Name { get; set; }
+        public string Art { get; set; }
         public double Menge { get; set; }
     }
 }
