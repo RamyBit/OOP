@@ -10,27 +10,40 @@ namespace ZooVerwaltung01
     {
         public string Name { get; set; }
         public string GZustand { get; set; }
-        public Tier()
+        public string FZustand { get; set; }
+        public TierPass tierPass { get; set; }
+        public Futter futter { get; set; }
+        public Tier(string name ,Untersuchung u,Fuetterung f, Futter futter, Mitarbeiter m)
         {
+            Name = name;
             TierPass tPass = new TierPass();
-            tPass.PassNr += 1;
+            tPass.PassNr = u.ID;
             tPass.TierName = Name;
-            //[tofix] Assozition
-            Untersuchung u = new Untersuchung();
-            GetUntersucht(u);
-            tPass.Gzustand = this.GZustand;
-            Fuetterung f = new Fuetterung(this)
+            GetUntersucht(u, m);
+            tPass.GZustand = this.GZustand;
+            GetFuttert(f, this, m,futter);
+            tPass.FZustand = this.FZustand;
+            tPass.FuetterArt = futter.Art;
+            tPass.FutterMenge = futter.Menge;
+            tierPass = tPass;
 
         }
         public void GetUntersucht(Untersuchung u, Mitarbeiter mitarbeiter)
         {
-            u.DurchFuehren(this, mitarbeiter);
-             u.GetUntersucht(this);
+             u.GetUntersucht(this, mitarbeiter);
         }
-        public void GetFuttert(Fuetterung f)
+        public void GetFuttert(Fuetterung fuetterung,Tier tier, Mitarbeiter mitarbeiter, Futter futter)
         {
-            f.DurchFuehren();
+            fuetterung.Getfuetert(tier,mitarbeiter,futter);
         }
-        
+        public TierPass GetTierPass()
+        {
+            return this.tierPass;
+        }
+        public void SetFutter(Futter futter)
+        {
+            this.futter = futter;
+        }
+
     }
 }

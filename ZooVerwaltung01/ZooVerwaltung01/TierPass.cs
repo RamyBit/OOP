@@ -12,12 +12,14 @@ namespace ZooVerwaltung01
         public int PassNr { get; set; }
         public string TierName { get; set; }
         public string FuetterArt { get; set; }
-        public string FutterMenge { get; set; }
-        public string Gzustand { get; set; }
-        
+        public double FutterMenge { get; set; }
+        public string GZustand { get; set; }
+        public string FZustand { get; set; }
+
         public TierPass()
         {
             PassNr = 0;
         }
+        
     }
 }

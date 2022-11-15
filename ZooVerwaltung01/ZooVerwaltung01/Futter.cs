@@ -10,5 +10,14 @@ namespace ZooVerwaltung01
     {
         public string Art { get; set; }
         public double Menge { get; set; }
+
+        public void eingabe()
+        {
+
+            Console.WriteLine("Geben Sie die Fütter Art ein: ");
+            Art = Console.ReadLine();
+            Console.WriteLine("Geben Sie die Menge von Fütter: ");
+            Menge = Convert.ToDouble(Console.ReadLine());
+        }
     }
 }

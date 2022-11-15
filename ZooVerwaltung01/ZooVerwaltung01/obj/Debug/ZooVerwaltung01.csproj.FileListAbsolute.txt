@@ -5,3 +5,11 @@ C:\Users\Ramy\source\repos\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltu
 C:\Users\Ramy\source\repos\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.csproj.CoreCompileInputs.cache
 C:\Users\Ramy\source\repos\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.exe
 C:\Users\Ramy\source\repos\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.exe
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\obj\Debug\ZooVerwaltung01.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\bin\Debug\ZooVerwaltung01.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\bin\Debug\ZooVerwaltung01.exe
+C:\Users\Ramy\Documents\GitHub\OOP\ZooVerwaltung01\ZooVerwaltung01\bin\Debug\ZooVerwaltung01.pdb
