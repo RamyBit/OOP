@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\bin\Debug\TierischeProperties.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\bin\Debug\TierischeProperties.exe
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\bin\Debug\TierischeProperties.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\obj\Debug\TierischeProperties.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\obj\Debug\TierischeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\obj\Debug\TierischeProperties.exe
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\TierischeProperties\obj\Debug\TierischeProperties.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\YieldSample\bin\Debug\YieldSample.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\YieldSample\bin\Debug\YieldSample.exe
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\YieldSample\bin\Debug\YieldSample.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\YieldSample\obj\Debug\YieldSample.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\YieldSample\obj\Debug\YieldSample.exe
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\YieldSample\obj\Debug\YieldSample.pdb
