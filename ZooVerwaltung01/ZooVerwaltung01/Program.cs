@@ -10,7 +10,7 @@ namespace ZooVerwaltung01
     {
         static void Main(string[] args)
         {
-            //test
+            Gehege g1 = new Gehege();
             Mitarbeiter kevin = new Mitarbeiter();
             Untersuchung untersuchung = new Untersuchung();
             Fuetterung fuetterung1 = new Fuetterung();
