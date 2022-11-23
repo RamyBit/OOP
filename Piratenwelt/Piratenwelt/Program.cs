@@ -23,6 +23,7 @@ namespace Piratenwelt
             Console.WriteLine(gang2.GangContextId);
 
             //Aggregation
+            Console.WriteLine("-------------------Aggregation---------------------");
             for(int i =1; i<10; i++)
             {
                 Pirat rPirat = new Pirat();
@@ -30,6 +31,7 @@ namespace Piratenwelt
                 Console.WriteLine($" ID: {rPirat.PirateID} Name: {rPirat.PirateID} Name Gang: {DortmunderGang.Name}. ");
             }
             //Komposition
+            Console.WriteLine("-------------------Komposition---------------------");
             for (int i = 3; i < 10; i++)
             {
                 gang2.AddAnotherPirat();

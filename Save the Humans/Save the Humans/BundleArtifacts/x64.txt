@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x64\Debug\Save the Humans_1.0.4.0_x64_Debug.msix
+SymbolPackage=C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\obj\x64\Debug\Symbols\Save the Humans_1.0.4.0_x64_Debug.appxsym
