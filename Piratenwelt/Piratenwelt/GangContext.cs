@@ -24,12 +24,21 @@ namespace Piratenwelt
             piraten.Add(pirat);
             pirat.GangId = this.GangContextId;
         }
+        public void AddAnotherPirat()
+        {
+            Pirat pirat = new Pirat();
+            pirat.PirateID = ZG.Next(815, 1815);
+            piraten.Add(pirat);
+            pirat.GangId = this.GangContextId;
+            Console.WriteLine($" ID: {pirat.PirateID} Name: {pirat.PirateID} Name Gang: {this.Name}. ");
+        }
         public GangContext AddAnotherGang()
         {
             GangContext gang = new GangContext();
             gang.GangContextId += 1;
             return gang;
         }
+        
         public void ListPirat()
         {
             Console.WriteLine("Liste von Piraten:");

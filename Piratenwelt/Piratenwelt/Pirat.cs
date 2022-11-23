@@ -12,6 +12,7 @@ namespace Piratenwelt
         public string Name { get; set; }
         public int GangId { get; set; }
 
+      
         public void Auswahlen(GangContext gang)
         {
             if (GangId == gang.GangContextId)
