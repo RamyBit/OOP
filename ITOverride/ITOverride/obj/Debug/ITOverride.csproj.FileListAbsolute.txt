@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\bin\Debug\ITOverride.exe.config
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\bin\Debug\ITOverride.exe
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\bin\Debug\ITOverride.pdb
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\obj\Debug\ITOverride.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\obj\Debug\ITOverride.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\obj\Debug\ITOverride.exe
+D:\GitHub\OOP\OOP\ITOverride\ITOverride\obj\Debug\ITOverride.pdb
