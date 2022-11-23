@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\bin\Debug\DelegateSample.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\bin\Debug\DelegateSample.exe
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\bin\Debug\DelegateSample.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\obj\Debug\DelegateSample.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\obj\Debug\DelegateSample.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\obj\Debug\DelegateSample.exe
+C:\Users\Ramy\Documents\GitHub\OOP\TierischeProperties\DelegateSample\obj\Debug\DelegateSample.pdb
