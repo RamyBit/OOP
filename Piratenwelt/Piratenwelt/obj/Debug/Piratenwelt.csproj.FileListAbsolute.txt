@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\bin\Debug\Piratenwelt.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\bin\Debug\Piratenwelt.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\bin\Debug\Piratenwelt.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\obj\Debug\Piratenwelt.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\obj\Debug\Piratenwelt.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\obj\Debug\Piratenwelt.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Piratenwelt\Piratenwelt\obj\Debug\Piratenwelt.pdb

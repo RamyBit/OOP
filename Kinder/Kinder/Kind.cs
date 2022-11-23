@@ -10,20 +10,27 @@ namespace Kinder
     {
         public string Name { get; set; }
         private List<Nahrung> Magen = new List<Nahrung>();
+        private int AktuellerBrennwert { get; set; }
 
         public void Gefuetert(Nahrung n)
         {
             this.Magen.Add(n);
+            
+            AktuellerBrennwert += n.Brennwert;
         }
-        public int Toben()
+
+        public void IchHabeGegessen()
         {
-            int energie = 0;
-            foreach (Nahrung item in Magen)
+            foreach (Nahrung nahrung in Magen)
             {
-                energie += item.Brennwert;
+                Console.WriteLine(nahrung.Brennwert);
             }
-            Magen.Clear();
-            return energie;
+            Console.WriteLine("Brennwert gesamt: {0} ", AktuellerBrennwert);
+        }
+        public void Toben()
+        {
+            AktuellerBrennwert -= Magen[0].Brennwert;
+            Magen.RemoveAt(0);                    
 
         }
     }
