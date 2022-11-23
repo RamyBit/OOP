@@ -14,6 +14,7 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Text.Core;
+using MonkeyIslandA1;
 
 // Die Elementvorlage "Leere Seite" wird unter https://go.microsoft.com/fwlink/?LinkId=234238 dokumentiert.
 
@@ -28,6 +29,9 @@ namespace Save_the_Humans
         DispatcherTimer enemyTimer = new DispatcherTimer();
         DispatcherTimer targetTimer = new DispatcherTimer();
         bool humanCaptured = false;
+
+        //--------------
+        Meer sea = new Meer("Sea");
         public MainPage()
         {
             this.InitializeComponent();
@@ -82,9 +86,15 @@ namespace Save_the_Humans
             targetTimer.Start();
         }
 
-        private void addIsland()
+        public void addIsland()
         {
-            ContentControl island 
+            ContentControl island = new ContentControl();
+            island.Template = Resources["EnemyTemplate"] as ControlTemplate;
+            AnimateEnemy(island, 0, playArea.ActualWidth - 100, "(Canvas.Left)");
+            AnimateEnemy(island, random.Next((int)playArea.ActualHeight - 100),
+                random.Next((int)playArea.ActualHeight - 100), "(Canvas.Top)");
+            playArea.Children.Add(island);
+            island.PointerEntered += Enemy_PointerEntered;
         }
         private void addEnemy()
         {
@@ -170,7 +180,7 @@ namespace Save_the_Humans
 
         private void addIslandButton_Click(object sender, RoutedEventArgs e)
         {
-
+            addIsland();
         }
 
         //// Agregation----------

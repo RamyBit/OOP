@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>07975974-6979-4798-a09b-ab6e5eecfea2</PackageIdentityName>
     <PackageIdentityPublisher>CN=Ramy</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.exe">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.exe">
       <PackagePath>entrypoint\Save the Humans.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ramy\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,58 +34,58 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\pirate.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\pirate.png">
       <PackagePath>Assets\pirate.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\PirateShip.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\PirateShip.png">
       <PackagePath>Assets\PirateShip.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.xr.xml">
       <PackagePath>Save the Humans.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Core\Save the Humans.exe">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Core\Save the Humans.exe">
       <PackagePath>Save the Humans.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

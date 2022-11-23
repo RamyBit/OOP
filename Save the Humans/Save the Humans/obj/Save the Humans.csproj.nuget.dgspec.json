@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ramy\\source\\repos\\Save the Humans\\Save the Humans\\Save the Humans.csproj": {}
+    "C:\\Users\\Ramy\\Documents\\GitHub\\OOP\\Save the Humans\\Save the Humans\\Save the Humans.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ramy\\source\\repos\\Save the Humans\\Save the Humans\\Save the Humans.csproj": {
+    "C:\\Users\\Ramy\\Documents\\GitHub\\OOP\\Save the Humans\\Save the Humans\\Save the Humans.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ramy\\source\\repos\\Save the Humans\\Save the Humans\\Save the Humans.csproj",
+        "projectUniqueName": "C:\\Users\\Ramy\\Documents\\GitHub\\OOP\\Save the Humans\\Save the Humans\\Save the Humans.csproj",
         "projectName": "Save the Humans",
-        "projectPath": "C:\\Users\\Ramy\\source\\repos\\Save the Humans\\Save the Humans\\Save the Humans.csproj",
+        "projectPath": "C:\\Users\\Ramy\\Documents\\GitHub\\OOP\\Save the Humans\\Save the Humans\\Save the Humans.csproj",
         "packagesPath": "C:\\Users\\Ramy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ramy\\source\\repos\\Save the Humans\\Save the Humans\\obj\\",
+        "outputPath": "C:\\Users\\Ramy\\Documents\\GitHub\\OOP\\Save the Humans\\Save the Humans\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

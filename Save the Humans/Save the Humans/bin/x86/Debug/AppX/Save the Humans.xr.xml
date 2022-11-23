@@ -59,6 +59,8 @@
     <RootType FullName="Windows.UI.Xaml.Controls.Canvas">
       <RootProperty Name="Visibility" />
       <RootProperty Name="Margin" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Width" />
       <RootProperty Name="Background" />
       <RootProperty Name="Children" />
       <RootEvent Name="PointerMoved" />

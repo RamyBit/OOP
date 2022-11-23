@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>07975974-6979-4798-a09b-ab6e5eecfea2</PackageIdentityName>
     <PackageIdentityPublisher>CN=Ramy</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>72EC28E895F496E7830AFB34261D9DA2F4C26404ADBFED4E7EA7E259B4181566</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>2129AA36D21DA668D47FB9D1EDA48153EEAF34538D94D4C52ADE20F70A1D605A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>07975974-6979-4798-a09b-ab6e5eecfea2_1.0.4.0_x86__qs8s3m5egg3w0</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>07975974-6979-4798-a09b-ab6e5eecfea2_qs8s3m5egg3w0!App</RegisteredUserModeAppID>
     <RegisteredPackageID>07975974-6979-4798-a09b-ab6e5eecfea2</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.4.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-17T10:52:02.983</Modified>
+      <Modified>2022-11-23T11:29:26.201</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.exe">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.exe">
       <PackagePath>entrypoint\Save the Humans.exe</PackagePath>
-      <Modified>2022-11-17T10:52:01.818</Modified>
+      <Modified>2022-11-23T11:29:25.360</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ramy\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,75 +46,75 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T02:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\pirate.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\pirate.png">
       <PackagePath>Assets\pirate.png</PackagePath>
       <Modified>2022-11-17T10:47:10.914</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\PirateShip.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\PirateShip.png">
       <PackagePath>Assets\PirateShip.png</PackagePath>
       <Modified>2022-11-17T09:36:25.503</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2020-07-22T10:44:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2022-11-11T07:38:56.330</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-22T10:44:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-22T10:44:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-23T09:08:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-22T10:44:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2020-07-22T10:44:44.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2020-06-24T13:28:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Save the Humans.xr.xml">
       <PackagePath>Save the Humans.xr.xml</PackagePath>
-      <Modified>2022-11-17T10:52:01.620</Modified>
+      <Modified>2022-11-23T11:15:27.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-11-17T10:52:01.646</Modified>
+      <Modified>2022-11-23T11:29:25.248</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-11-17T10:52:01.646</Modified>
+      <Modified>2022-11-23T11:29:25.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-02T00:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-17T10:52:02.253</Modified>
+      <Modified>2022-11-23T11:15:28.324</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ramy\source\repos\Save the Humans\Save the Humans\bin\x86\Debug\Core\Save the Humans.exe">
+    <AppxPackagedFile Include="C:\Users\Ramy\Documents\GitHub\OOP\Save the Humans\Save the Humans\bin\x86\Debug\Core\Save the Humans.exe">
       <PackagePath>Save the Humans.exe</PackagePath>
-      <Modified>2022-11-17T10:52:02.970</Modified>
+      <Modified>2022-11-23T11:29:26.195</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
