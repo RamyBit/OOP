@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\bin\Debug\GenericsBeispiel.exe.config
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\bin\Debug\GenericsBeispiel.exe
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\bin\Debug\GenericsBeispiel.pdb
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\obj\Debug\GenericsBeispiel.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\obj\Debug\GenericsBeispiel.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\obj\Debug\GenericsBeispiel.exe
+D:\GitHub\OOP\OOP\GenericsBeispiel\GenericsBeispiel\obj\Debug\GenericsBeispiel.pdb

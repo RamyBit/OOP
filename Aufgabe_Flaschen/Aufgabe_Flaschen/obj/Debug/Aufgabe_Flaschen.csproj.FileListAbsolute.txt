@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\bin\Debug\Aufgabe_Flaschen.exe.config
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\bin\Debug\Aufgabe_Flaschen.exe
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\bin\Debug\Aufgabe_Flaschen.pdb
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\obj\Debug\Aufgabe_Flaschen.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\obj\Debug\Aufgabe_Flaschen.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\obj\Debug\Aufgabe_Flaschen.exe
+D:\GitHub\OOP\OOP\Aufgabe_Flaschen\Aufgabe_Flaschen\obj\Debug\Aufgabe_Flaschen.pdb
