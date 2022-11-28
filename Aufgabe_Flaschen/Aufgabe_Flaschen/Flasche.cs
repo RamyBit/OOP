@@ -25,10 +25,11 @@ namespace Aufgabe_Flaschen
         {
             Inhalt.Add(getraenk);
         }
-        public List<T> Leeren()
+        public void Leeren(out List<T> getraenk)
         {
-            return Inhalt;
-            Inhalt.Clear();
+            getraenk = Inhalt;
+            Inhalt = null;
         }
+        
     }
 }

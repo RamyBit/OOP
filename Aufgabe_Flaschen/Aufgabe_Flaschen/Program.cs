@@ -13,6 +13,7 @@ namespace Aufgabe_Flaschen
             Flasche<Getraenk> flasche = new Flasche<Getraenk>();
             flasche.Fuellen(new Bier { Name = "Corona" , Brauerei = "Coronita Cerveza" }) ;
             flasche.Fuellen(new Rotwein { Name = "Chateau", Herkunft = "Frankreich" });
+            
             if (flasche.IstLeer()) { 
                 Console.WriteLine("Flasche ist leer"); 
             }
@@ -20,7 +21,7 @@ namespace Aufgabe_Flaschen
             }
 
             List<Getraenk> getraenken = new List<Getraenk>();
-            getraenken = flasche.Leeren();
+            flasche.Leeren(out getraenken);
             foreach (var item in getraenken)
             {
                 Console.WriteLine(item.Name);
