@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\bin\Debug\CollectionBeispiel_Do1.exe.config
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\bin\Debug\CollectionBeispiel_Do1.exe
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\bin\Debug\CollectionBeispiel_Do1.pdb
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\obj\Debug\CollectionBeispiel_Do1.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\obj\Debug\CollectionBeispiel_Do1.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\obj\Debug\CollectionBeispiel_Do1.exe
+D:\GitHub\OOP\OOP\CollectionBeispiel_Do1\CollectionBeispiel_Do1\obj\Debug\CollectionBeispiel_Do1.pdb

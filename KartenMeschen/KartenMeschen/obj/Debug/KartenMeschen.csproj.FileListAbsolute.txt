@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\bin\Debug\KartenMeschen.exe.config
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\bin\Debug\KartenMeschen.exe
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\bin\Debug\KartenMeschen.pdb
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\obj\Debug\KartenMeschen.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\obj\Debug\KartenMeschen.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\obj\Debug\KartenMeschen.exe
+D:\GitHub\OOP\OOP\KartenMeschen\KartenMeschen\obj\Debug\KartenMeschen.pdb
