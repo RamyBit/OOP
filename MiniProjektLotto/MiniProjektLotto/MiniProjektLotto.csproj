@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC46E7BF-929E-4366-A8F1-965873F08086}</ProjectGuid>
+    <ProjectGuid>{DE3A2B9E-37EE-41B8-8ABA-B4599214008B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KartenMeschen</RootNamespace>
-    <AssemblyName>KartenMeschen</AssemblyName>
+    <RootNamespace>MiniProjektLotto</RootNamespace>
+    <AssemblyName>MiniProjektLotto</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Karte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Staple.cs" />
+    <Compile Include="ZufallsZahlGen.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\bin\Debug\PiratesCoveLine.exe.config
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\bin\Debug\PiratesCoveLine.exe
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\bin\Debug\PiratesCoveLine.pdb
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\obj\Debug\PiratesCoveLine.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\obj\Debug\PiratesCoveLine.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\obj\Debug\PiratesCoveLine.exe
+D:\GitHub\OOP\OOP\PiratesCoveLine\PiratesCoveLine\obj\Debug\PiratesCoveLine.pdb

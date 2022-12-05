@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\bin\Debug\MiniProjektLotto.exe.config
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\bin\Debug\MiniProjektLotto.exe
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\bin\Debug\MiniProjektLotto.pdb
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\obj\Debug\MiniProjektLotto.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\obj\Debug\MiniProjektLotto.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\obj\Debug\MiniProjektLotto.exe
+D:\GitHub\OOP\OOP\MiniProjektLotto\MiniProjektLotto\obj\Debug\MiniProjektLotto.pdb

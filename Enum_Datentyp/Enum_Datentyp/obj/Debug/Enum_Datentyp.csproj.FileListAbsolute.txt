@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\bin\Debug\Enum_Datentyp.exe.config
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\bin\Debug\Enum_Datentyp.exe
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\bin\Debug\Enum_Datentyp.pdb
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\obj\Debug\Enum_Datentyp.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\obj\Debug\Enum_Datentyp.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\obj\Debug\Enum_Datentyp.exe
+D:\GitHub\OOP\OOP\Enum_Datentyp\Enum_Datentyp\obj\Debug\Enum_Datentyp.pdb
