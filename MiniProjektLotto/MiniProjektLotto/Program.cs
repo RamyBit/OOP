@@ -22,6 +22,7 @@ namespace MiniProjektLotto
            
             Zeigen(Ziehungen);
             MGZahl(Ziehungen, AlleNummer);
+            NGZahl(AlleNummer);
             Console.ReadLine();
         }
 
@@ -37,37 +38,58 @@ namespace MiniProjektLotto
                 Console.WriteLine("_______________");
             }
         }
-        static void MGZahl(List<List<int>> Ziehungen, Hashtable hashtable)
+        static void MGZahl(List<List<int>> Ziehungen, Hashtable  hashtable)
         {
             int zaehler = 0;
             int maxValue = 0;
             int maxZahl = 0;
-            foreach (var Ziehung in Ziehungen)
+
+            for (int i = 1; i < 50; i++)
             {
-                
-                foreach (int nummer in Ziehung)
+                foreach (var ziehung in Ziehungen)
                 {
-                    zaehler = 0;
-                    foreach (var andereZiehung in Ziehungen)
-                    {                        
-                        if (andereZiehung.Contains(nummer))
+                    foreach (int nummer in ziehung)
+                    {
+                        if (i == nummer)
                         {
-                            zaehler++;
+                            if (hashtable.ContainsKey(i))
+                            {
+                                hashtable[i]= Convert.ToInt32(hashtable[i])+1;
+                            }
+                            else
+                            {
+                                hashtable[i] = 1;
+                            }
                         }
                     }
-                    if (hashtable.ContainsKey(nummer))
-                    {
-                        hashtable[nummer] = zaehler;
-                    }
-                    else
-                    {
-                        hashtable.Add(nummer, zaehler);
-                    }
+                }
+            }
+            //foreach (var Ziehung in Ziehungen)
+            //{
+                
+            //    foreach (int nummer in Ziehung)
+            //    {
+            //        zaehler = 0;
+            //        foreach (var andereZiehung in Ziehungen)
+            //        {                        
+            //            if (andereZiehung.Contains(nummer))
+            //            {
+            //                zaehler++;
+            //            }
+            //        }
+            //        if (hashtable.ContainsKey(nummer))
+            //        {
+            //            hashtable[nummer] = Convert.ToInt32(hashtable[nummer]) + zaehler;
+            //        }
+            //        else
+            //        {
+            //            hashtable.Add(nummer, zaehler);
+            //        }
                     
                    
-                }
+            //    }
                 
-            }
+            //}
 
             //for (int i = 0; i < hashtable.Count; i++)
             //{
@@ -89,14 +111,11 @@ namespace MiniProjektLotto
         {
             for (int i = 1; i <= 49; i++)
             {
-                if (hashtable.ContainsValue(i.ToString()))
-                {
-                    continue;
-                }
-                else
+                if (!hashtable.ContainsValue(i))
                 {
                     Console.WriteLine($"Der Zahl {i} ist noch gar nicht gezogen wird.");
                 }
+                
             }
             
         }
