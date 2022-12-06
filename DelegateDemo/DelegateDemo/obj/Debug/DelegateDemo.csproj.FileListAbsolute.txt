@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\GitHub\OOP\OOP\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

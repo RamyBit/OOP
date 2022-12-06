@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\bin\Debug\ArrayMinMax.exe.config
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\bin\Debug\ArrayMinMax.exe
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\bin\Debug\ArrayMinMax.pdb
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\obj\Debug\ArrayMinMax.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\obj\Debug\ArrayMinMax.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\obj\Debug\ArrayMinMax.exe
+D:\GitHub\OOP\OOP\ArrayMinMax\ArrayMinMax\obj\Debug\ArrayMinMax.pdb
