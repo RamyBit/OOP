@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\bin\Debug\GrossKlein.exe.config
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\bin\Debug\GrossKlein.exe
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\bin\Debug\GrossKlein.pdb
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\obj\Debug\GrossKlein.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\obj\Debug\GrossKlein.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\obj\Debug\GrossKlein.exe
+D:\GitHub\OOP\OOP\GrossKlein\GrossKlein\obj\Debug\GrossKlein.pdb
