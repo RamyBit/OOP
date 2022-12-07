@@ -17,7 +17,8 @@ namespace LOTR_Aufgabe
         public string Name { get; set; }
         public bool HatDerRing { get; set; }
         public event EventHandler<EventArgs> FingerCheck;
-
+        
+        
         public void RingAufstecken()
         {
             if (HatDerRing)
