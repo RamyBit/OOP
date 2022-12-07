@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\bin\Debug\EventsBeispielFlugzeug.exe.config
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\bin\Debug\EventsBeispielFlugzeug.exe
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\bin\Debug\EventsBeispielFlugzeug.pdb
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\obj\Debug\EventsBeispielFlugzeug.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\obj\Debug\EventsBeispielFlugzeug.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\obj\Debug\EventsBeispielFlugzeug.exe
+D:\GitHub\OOP\OOP\EventsBeispielFlugzeug\EventsBeispielFlugzeug\obj\Debug\EventsBeispielFlugzeug.pdb

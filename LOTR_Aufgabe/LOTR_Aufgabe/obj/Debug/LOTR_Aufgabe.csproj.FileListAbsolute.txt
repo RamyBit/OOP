@@ -1,0 +1,7 @@
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\bin\Debug\LOTR_Aufgabe.exe.config
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\bin\Debug\LOTR_Aufgabe.exe
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\bin\Debug\LOTR_Aufgabe.pdb
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\obj\Debug\LOTR_Aufgabe.csproj.AssemblyReference.cache
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\obj\Debug\LOTR_Aufgabe.csproj.CoreCompileInputs.cache
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\obj\Debug\LOTR_Aufgabe.exe
+D:\GitHub\OOP\OOP\LOTR_Aufgabe\LOTR_Aufgabe\obj\Debug\LOTR_Aufgabe.pdb
