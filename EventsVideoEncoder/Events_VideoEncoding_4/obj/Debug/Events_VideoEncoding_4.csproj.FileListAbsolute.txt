@@ -1,0 +1,6 @@
+C:\Users\Ramy\Documents\GitHub\OOP\EventsVideoEncoder\Events_VideoEncoding_4\obj\Debug\Events_VideoEncoding_4.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\EventsVideoEncoder\Events_VideoEncoding_4\bin\Debug\Events_VideoEncoding_4.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\EventsVideoEncoder\Events_VideoEncoding_4\bin\Debug\Events_VideoEncoding_4.exe
+C:\Users\Ramy\Documents\GitHub\OOP\EventsVideoEncoder\Events_VideoEncoding_4\bin\Debug\Events_VideoEncoding_4.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\EventsVideoEncoder\Events_VideoEncoding_4\obj\Debug\Events_VideoEncoding_4.exe
+C:\Users\Ramy\Documents\GitHub\OOP\EventsVideoEncoder\Events_VideoEncoding_4\obj\Debug\Events_VideoEncoding_4.pdb
