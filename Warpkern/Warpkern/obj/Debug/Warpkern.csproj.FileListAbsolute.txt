@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\bin\Debug\Warpkern.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\bin\Debug\Warpkern.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\bin\Debug\Warpkern.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\obj\Debug\Warpkern.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\obj\Debug\Warpkern.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\obj\Debug\Warpkern.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Warpkern\Warpkern\obj\Debug\Warpkern.pdb
