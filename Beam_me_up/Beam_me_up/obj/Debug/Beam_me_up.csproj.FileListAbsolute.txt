@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\bin\Debug\Beam_me_up.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\bin\Debug\Beam_me_up.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\bin\Debug\Beam_me_up.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\obj\Debug\Beam_me_up.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\obj\Debug\Beam_me_up.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\obj\Debug\Beam_me_up.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Beam_me_up\Beam_me_up\obj\Debug\Beam_me_up.pdb
