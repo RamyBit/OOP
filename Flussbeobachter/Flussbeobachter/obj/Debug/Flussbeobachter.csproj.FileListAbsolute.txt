@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\bin\Debug\Flussbeobachter.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\bin\Debug\Flussbeobachter.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\bin\Debug\Flussbeobachter.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\obj\Debug\Flussbeobachter.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\obj\Debug\Flussbeobachter.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\obj\Debug\Flussbeobachter.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Flussbeobachter\Flussbeobachter\obj\Debug\Flussbeobachter.pdb

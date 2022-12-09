@@ -26,7 +26,15 @@ namespace Flussbeobachter
             Schiff lorelei = new Schiff() { Name = "Lorelei" };
             rhein.WasserstandAendern(lorelei);
 
-            
+            Stadt ulm = new Stadt() { Name = "Ulm"};
+            donau.WasserstandAendern(koeln);
+            Schiff xaver = new Schiff() { Name = "Xaver" };
+            donau.WasserstandAendern(duesseldorf);
+            Schiff unserFranz = new Schiff() { Name = "Unser Franz" };
+            donau.WasserstandAendern(unserFranz);
+            Klaerwerk soeder1 = new Klaerwerk() { Name = "Söder" };
+            donau.WasserstandAendern(soeder1);
+
         }
     }
 }
