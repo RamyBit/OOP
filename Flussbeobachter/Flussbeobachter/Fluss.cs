@@ -21,37 +21,37 @@ namespace Flussbeobachter
                 {
                     if (this.Wasserstand < 250 || this.Wasserstand > 8000)
                     {
-                        Console.WriteLine("Schiffe anhalten!!!");
+                        Console.WriteLine("Die Schiff {0} anhalten!!!",e.Name);
                     }
                     else
                     {
-                        Console.WriteLine("Es ist ok für Schiffe");
+                        Console.WriteLine("Es ist ok für die Schiffe {0} ", e.Name);
                     }
                 }
                 else if (typeof(Stadt).Equals(e.GetType()))
                 {
                     if (this.Wasserstand > 8200)
                     {
-                        Console.WriteLine("Städte haben die Wasserschutzwand errichten!!!");
+                        Console.WriteLine("Stadt {0} haben die Wasserschutzwand errichten!!!",e.Name);
                     }
                     else
                     {
-                        Console.WriteLine("Es ist ok für Städte");
+                        Console.WriteLine("Es ist ok für Stadt {0}", e.Name);
                     }
                 }
                 if (typeof(Klaerwerk).Equals(e.GetType()))
                 {
                     if (this.Wasserstand > 8000)
                     {
-                        Console.WriteLine("Die Einleitung der Klärwerke stoppen!!!");
+                        Console.WriteLine("Die Einleitung der Klärwerk {0} stoppen!!!",e.Name);
                     }
                     else if (this.Wasserstand < 3000)
                     {
-                        Console.WriteLine("Die Einlaitung der Klärwerke steigern");
+                        Console.WriteLine("Die Einlaitung der Klärwerk {0} steigern", e.Name);
                     }
                     else
                     {
-                        Console.WriteLine("Es ist ok für Klärwerke");
+                        Console.WriteLine("Es ist ok für Klärwerk {0}", e.Name);
                     }
                 }
             }
