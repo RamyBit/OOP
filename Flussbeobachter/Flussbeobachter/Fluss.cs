@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace Flussbeobachter
 {
     class Fluss 
     {
         public string Name { get; set; }
-        public int Wasserstand { get; set; }
+        public int Wasserstand { get; set; } = 500;
 
         public event EventHandler<Beobachter> WasserStandMesser;
 
@@ -58,8 +59,14 @@ namespace Flussbeobachter
         }
         public void WasserstandAendern(Beobachter beobachter)
         {
-            Console.WriteLine($"Geben Sie {this.Name} Wasserstand wert:");
-            this.Wasserstand = Convert.ToInt32(Console.ReadLine());
+            Random random = new Random();
+            int neuWasserstand;
+            int alteWasserstand= this.Wasserstand;
+            //Console.WriteLine($"Geben Sie {this.Name} Wasserstand wert:");
+            //this.Wasserstand = Convert.ToInt32(Console.ReadLine());
+            Thread.Sleep(500);
+            neuWasserstand = alteWasserstand + random.Next(-500, 1000);
+            this.Wasserstand = neuWasserstand;
             WasserStandMesser(this, beobachter);
         }
     }
