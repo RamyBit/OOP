@@ -10,12 +10,50 @@ namespace Taschenrechner
     {
         public int x { get; set; }
         public int y { get; set; }
+        public string Num1 { get; set; }
+        public string Num2 { get; set; }
+        public bool OperationEntered { get; set; } = false;
+        public bool XEntered { get; set; } = false;
+        public bool YEntered { get; set; } = false;
         public string Operation { get; set; }
+        public double Result { get; set; } = 0;
 
-        public double Calculate(int x,int y,string operation)
+        
+        public void SetValue (string a)
+        {
+           
+            if (OperationEntered == false)
+            {
+                Num1 += a;
+                x = Convert.ToInt32(Num1);
+            }
+            else if (OperationEntered)
+            {
+                Num2 += a;
+                y = Convert.ToInt32(Num2);
+                YEntered = true;
+            }
+        }
+        public void SetOperation(string operation)
+        {
+            Operation = operation;
+            OperationEntered = true;
+        }
+        public void Reset()
+        {
+            Result = 0;
+            x = 0;
+            y = 0;
+            Num1 = "";
+            Num2 = "";
+            Operation = "";
+            YEntered = false;
+            OperationEntered = false;
+        }
+        public void Calculate()
         {
             double result = 0;
-            switch (operation)
+            switch (Operation)
             {
                 case  "+":
                     result = x + y;
@@ -45,7 +83,8 @@ namespace Taschenrechner
                     result = 0;
                     break;
             }
-            return result;
+            //Operation = "";
+            Result = result;
         }
     }
 }

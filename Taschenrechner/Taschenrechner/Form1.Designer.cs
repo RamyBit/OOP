@@ -46,6 +46,7 @@ namespace Taschenrechner
             this.buttonR = new System.Windows.Forms.Button();
             this.buttonPlus = new System.Windows.Forms.Button();
             this.Result = new System.Windows.Forms.Label();
+            this.BResult = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -66,6 +67,7 @@ namespace Taschenrechner
             this.button2.TabIndex = 1;
             this.button2.Text = "2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -75,6 +77,7 @@ namespace Taschenrechner
             this.button3.TabIndex = 2;
             this.button3.Text = "3";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
@@ -84,6 +87,7 @@ namespace Taschenrechner
             this.button4.TabIndex = 3;
             this.button4.Text = "4";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -93,6 +97,7 @@ namespace Taschenrechner
             this.button5.TabIndex = 4;
             this.button5.Text = "5";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -102,6 +107,7 @@ namespace Taschenrechner
             this.button6.TabIndex = 5;
             this.button6.Text = "6";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
@@ -111,6 +117,7 @@ namespace Taschenrechner
             this.button7.TabIndex = 6;
             this.button7.Text = "7";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // button8
             // 
@@ -120,6 +127,7 @@ namespace Taschenrechner
             this.button8.TabIndex = 7;
             this.button8.Text = "8";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button9
             // 
@@ -129,6 +137,7 @@ namespace Taschenrechner
             this.button9.TabIndex = 8;
             this.button9.Text = "9";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // buttonDiv
             // 
@@ -138,6 +147,7 @@ namespace Taschenrechner
             this.buttonDiv.TabIndex = 9;
             this.buttonDiv.Text = "/";
             this.buttonDiv.UseVisualStyleBackColor = true;
+            this.buttonDiv.Click += new System.EventHandler(this.buttonDiv_Click);
             // 
             // buttonMulti
             // 
@@ -147,6 +157,7 @@ namespace Taschenrechner
             this.buttonMulti.TabIndex = 10;
             this.buttonMulti.Text = "*";
             this.buttonMulti.UseVisualStyleBackColor = true;
+            this.buttonMulti.Click += new System.EventHandler(this.buttonMulti_Click);
             // 
             // buttonMinus
             // 
@@ -156,6 +167,7 @@ namespace Taschenrechner
             this.buttonMinus.TabIndex = 11;
             this.buttonMinus.Text = "-";
             this.buttonMinus.UseVisualStyleBackColor = true;
+            this.buttonMinus.Click += new System.EventHandler(this.buttonMinus_Click);
             // 
             // button0
             // 
@@ -165,6 +177,7 @@ namespace Taschenrechner
             this.button0.TabIndex = 12;
             this.button0.Text = "0";
             this.button0.UseVisualStyleBackColor = true;
+            this.button0.Click += new System.EventHandler(this.button0_Click);
             // 
             // buttonC
             // 
@@ -174,6 +187,7 @@ namespace Taschenrechner
             this.buttonC.TabIndex = 13;
             this.buttonC.Text = "C";
             this.buttonC.UseVisualStyleBackColor = true;
+            this.buttonC.Click += new System.EventHandler(this.buttonC_Click);
             // 
             // buttonR
             // 
@@ -183,6 +197,7 @@ namespace Taschenrechner
             this.buttonR.TabIndex = 14;
             this.buttonR.Text = "=";
             this.buttonR.UseVisualStyleBackColor = true;
+            this.buttonR.Click += new System.EventHandler(this.buttonR_Click);
             // 
             // buttonPlus
             // 
@@ -192,22 +207,31 @@ namespace Taschenrechner
             this.buttonPlus.TabIndex = 15;
             this.buttonPlus.Text = "+";
             this.buttonPlus.UseVisualStyleBackColor = true;
-           
+            this.buttonPlus.Click += new System.EventHandler(this.buttonPlus_Click);
             // 
             // Result
             // 
             this.Result.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.Result.Location = new System.Drawing.Point(12, 31);
             this.Result.Name = "Result";
-            this.Result.Size = new System.Drawing.Size(364, 79);
+            this.Result.Size = new System.Drawing.Size(364, 34);
             this.Result.TabIndex = 16;
             this.Result.Text = "Result";
+            // 
+            // BResult
+            // 
+            this.BResult.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.BResult.Location = new System.Drawing.Point(12, 74);
+            this.BResult.Name = "BResult";
+            this.BResult.Size = new System.Drawing.Size(364, 37);
+            this.BResult.TabIndex = 17;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(400, 447);
+            this.Controls.Add(this.BResult);
             this.Controls.Add(this.Result);
             this.Controls.Add(this.buttonPlus);
             this.Controls.Add(this.buttonR);
@@ -250,6 +274,7 @@ namespace Taschenrechner
         private System.Windows.Forms.Button buttonR;
         private System.Windows.Forms.Button buttonPlus;
         private System.Windows.Forms.Label Result;
+        private System.Windows.Forms.Label BResult;
     }
 }
 
