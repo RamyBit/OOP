@@ -17,14 +17,22 @@ namespace ArbeitenMitDateien
             //fs.Close();
             //Console.ReadLine();
 
-            StreamReader sr = new StreamReader("datei.txt");
+            //StreamReader sr = new StreamReader("datei.txt");
 
-            string line;
+            //string line;
 
-            while ((line = sr.ReadLine()) != null)
-            {
-                Console.WriteLine(line);
-            }
+            //while ((line = sr.ReadLine()) != null)
+            //{
+            //    Console.WriteLine(line);
+            //}
+
+            FileStream fs = File.Open(@"datei2.txt", FileMode.OpenOrCreate);
+            BufferedStream bs = new BufferedStream(fs);
+
+            StreamWriter sw = new StreamWriter(bs);
+            sw.WriteLine("neue Daten");
+            sw.Close();
+            fs.Close();
             
             Console.ReadLine();
         }
