@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\bin\Debug\ArbeitenMitDateien.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\bin\Debug\ArbeitenMitDateien.exe
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\bin\Debug\ArbeitenMitDateien.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\obj\Debug\ArbeitenMitDateien.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\obj\Debug\ArbeitenMitDateien.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\obj\Debug\ArbeitenMitDateien.exe
+C:\Users\Ramy\Documents\GitHub\OOP\ArbeitenMitDateien\ArbeitenMitDateien\obj\Debug\ArbeitenMitDateien.pdb
