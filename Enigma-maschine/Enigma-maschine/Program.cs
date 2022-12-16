@@ -4,31 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Caesar_Schluesselung
+namespace Enigma_maschine
 {
     class Program
     {
         static void Main(string[] args)
         {
             string encryptedMessage;
+            string originalMessage;
             Console.WriteLine("Geben Sie die Nachrichten ein: ");
             string message = Console.ReadLine();
 
 
             Console.WriteLine("Geben Sie die Schlüssel ein: ");
-            int key = Convert.ToInt32(Console.ReadLine());
+            string keyword = Console.ReadLine();
 
             Console.WriteLine("Die verschlüsselte Nachricht ist : ");
-            encryptedMessage = Cipher.Encipher(message, key);
+            encryptedMessage = Cipher.Encipher(message, keyword);
+            
             Console.WriteLine(encryptedMessage);
-            Save.SaveTo(encryptedMessage);
-            Console.WriteLine("Die gespeicherte Message ist :");
-            Console.WriteLine(Save.FileOpen()); 
+
+            Console.WriteLine();
+            originalMessage = Cipher.Decipher(message, keyword);
+            Console.WriteLine(originalMessage);
+            //Save.SaveTo(encryptedMessage);
+            //Console.WriteLine("Die gespeicherte Message ist :");
+            //Console.WriteLine(Save.FileOpen());
 
             Console.ReadLine();
 
         }
-
-        
     }
 }

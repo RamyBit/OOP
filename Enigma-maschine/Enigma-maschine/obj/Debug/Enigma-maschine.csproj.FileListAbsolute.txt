@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\bin\Debug\Enigma-maschine.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\bin\Debug\Enigma-maschine.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\bin\Debug\Enigma-maschine.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\obj\Debug\Enigma-maschine.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\obj\Debug\Enigma-maschine.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\obj\Debug\Enigma-maschine.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Enigma-maschine\Enigma-maschine\obj\Debug\Enigma-maschine.pdb

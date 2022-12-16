@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{271BBAA8-43AF-488A-AF46-BA7686B84595}</ProjectGuid>
+    <ProjectGuid>{875EE2B3-1DF4-4CDA-ADCB-B7CC22C7EEA0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Caesar_Schluesselung</RootNamespace>
-    <AssemblyName>Caesar-Schluesselung</AssemblyName>
+    <RootNamespace>Enigma_maschine</RootNamespace>
+    <AssemblyName>Enigma-maschine</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

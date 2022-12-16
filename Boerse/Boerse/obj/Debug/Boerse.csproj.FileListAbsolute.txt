@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\bin\Debug\Boerse.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\bin\Debug\Boerse.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\bin\Debug\Boerse.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\obj\Debug\Boerse.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\obj\Debug\Boerse.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\obj\Debug\Boerse.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Boerse\Boerse\obj\Debug\Boerse.pdb
