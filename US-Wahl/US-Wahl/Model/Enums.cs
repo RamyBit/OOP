@@ -8,13 +8,13 @@ namespace US_Wahl.Model
 {
     class Enums
     {
-        public enum Beeinfulssbarkeit
+        public enum BEEINFLUSSBARKEIT
         {
             LEICHT,
             MITTEL,
             SCHWER
         }
-        public enum Alter
+        public enum ALTER
         {
             ERSTWAEHLER,
             BIS30,
@@ -22,19 +22,19 @@ namespace US_Wahl.Model
             BIS50,
             RESTLICHE
         }
-        public enum Schicht
+        public enum SCHICHT
         {
             UNTERSCHICHT,
             UNTEREMITTELSCHICHT,
             OBEREMITTELSCHICHT,
             OBERSCHICHT
         }
-        public enum Geschlecht 
+        public enum GESCHLECHT
         {
             WEIBLICH,
             MAENNLICH
         }
-        public enum Heimat
+        public enum HEIMAT
         {
             REPUBLIKANER,
             DEMOKRATEN

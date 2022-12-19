@@ -19,10 +19,11 @@ namespace US_Wahl
             string nachname;
             string vorname;
             int plz;
-            Geschlecht geschlecht;
+            GESCHLECHT geschlecht;
+            SCHICHT schicht;
             int alter;
-            Beeinfulssbarkeit beeinfulssbarkeit;
-            Heimat heimat;
+            BEEINFLUSSBARKEIT beeinfulssbarkeit;
+            HEIMAT heimat;
             List <Person> people = new List<Person>();
             Random random = new Random();
             
@@ -40,8 +41,8 @@ namespace US_Wahl
                
                 id = i;
                 nachname = lsNachnamen.ElementAt(random.Next(0, lsNachnamen.Count));
-                geschlecht = (Geschlecht)random.Next(0,2);
-                if (geschlecht == Geschlecht.WEIBLICH)
+                geschlecht = (GESCHLECHT)random.Next(0,2);
+                if (geschlecht == GESCHLECHT.WEIBLICH)
                 {
                     vorname = lsWnamen.ElementAt(random.Next(0, lsWnamen.Count));
                 }
@@ -50,13 +51,15 @@ namespace US_Wahl
                     vorname = lsMnamen.ElementAt(random.Next(0, lsMnamen.Count));
                 }
                 plz = random.Next(47111, 50000);
-                heimat = (Heimat)random.Next(0, 1);
-                beeinfulssbarkeit = (Beeinfulssbarkeit)random.Next(0, 1);
+                heimat = (HEIMAT)random.Next(0, 1);
+                beeinfulssbarkeit = (BEEINFLUSSBARKEIT)random.Next(0, 4);
                 alter = random.Next(18, 105);
+                schicht = (SCHICHT)random.Next(0, 5);
+                
 
                 people.Add(new Person {ID = id, Nachname = nachname, Vorname= vorname,
                                         Alter = alter, Beeinflussbarkeit=beeinfulssbarkeit, Geschlecht = geschlecht,
-                                        PLZ = plz, Heimat = heimat});
+                                        PLZ = plz, Heimat = heimat, Schicht = schicht});
                 
             }
             return people;

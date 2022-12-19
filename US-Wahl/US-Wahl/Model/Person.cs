@@ -13,9 +13,10 @@ namespace US_Wahl
         public string Vorname { get; set; }
         public string Nachname { get; set; }
         public int PLZ { get; set; }
-        public  Geschlecht Geschlecht { get; set; }
+        public  GESCHLECHT Geschlecht { get; set; }
         public int Alter { get; set; }
-        public Beeinfulssbarkeit Beeinflussbarkeit { get; set; }
-        public Heimat Heimat { get; set; }
+        public BEEINFLUSSBARKEIT Beeinflussbarkeit { get; set; }
+        public HEIMAT Heimat { get; set; }
+        public SCHICHT Schicht { get; set; }
     }
 }
