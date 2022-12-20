@@ -63,10 +63,7 @@ namespace US_Wahl
                 
             }
             return people;
-            //foreach (string name in list)
-            //{
-            //    Console.WriteLine(name);
-            //}
+            
         }
         static ModelGen()
         {
