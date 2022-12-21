@@ -10,8 +10,19 @@ namespace Die_Arch_Noah
     {
         static void Main(string[] args)
         {
-            IVerantwortlicher verantwortlicher = new 
-            Arche a = new Arche();
+           
+            Arche a = new Arche(new Alien() {Name = "Ford Perfect" }, Inventory.berechtigte);
+            UnTier ut = new UnTier() { Name = "Khan" };
+            a.AddMitreisenden(ut);
+
+            Mensch m1 = new Mensch() { Name = "Donald" };
+            a.AddMitreisenden(m1);
+
+            Alien a1 = new Alien() { Name = "Donald" };
+            a.AddMitreisenden(a1);
+            a.ZeigeAlleMitreisenden();
+            Console.ReadLine();
+
         }
     }
 }

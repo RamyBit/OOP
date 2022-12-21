@@ -6,18 +6,21 @@ using System.Threading.Tasks;
 
 namespace Die_Arch_Noah
 {
-    class Mensch : IBerechtigung
+    class UnTier : IBerechtigung
     {
         public string Name { get; set; }
         public IVerantwortlicher verantwortlicher { get; set; }
-        public Arche Zufluchtsort { get; set; }
+        public void FahrscheinZeigen(IVerantwortlicher verantwortlicher)
+        {
+            this.verantwortlicher = verantwortlicher;
+        }
         public void Eintreten(Arche arche)
         {
-            Zufluchtsort = arche;
+            
         }
         public string ZeigeInfo()
         {
-            return this.Name;
+            return (this.Name);
         }
     }
 }

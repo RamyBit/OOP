@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\obj\Debug\Die Arch Noah.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\obj\Debug\Die Arch Noah.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\bin\Debug\Die Arch Noah.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\bin\Debug\Die Arch Noah.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\bin\Debug\Die Arch Noah.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\obj\Debug\Die Arch Noah.exe
+C:\Users\Ramy\Documents\GitHub\OOP\Die Arch Noah\Die Arch Noah\obj\Debug\Die Arch Noah.pdb
