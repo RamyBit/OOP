@@ -1,0 +1,7 @@
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\bin\Debug\SayArrrh.exe.config
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\bin\Debug\SayArrrh.exe
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\bin\Debug\SayArrrh.pdb
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\obj\Debug\SayArrrh.csproj.AssemblyReference.cache
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\obj\Debug\SayArrrh.csproj.CoreCompileInputs.cache
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\obj\Debug\SayArrrh.exe
+C:\Users\Ramy\Documents\GitHub\OOP\SayArrrh\SayArrrh\obj\Debug\SayArrrh.pdb
